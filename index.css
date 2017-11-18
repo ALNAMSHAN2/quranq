@@ -8,10 +8,8 @@ div#container
 body
 {
    background-color: #FFFFFF;
-   background-image: url(images/44333.jpg);
-   background-attachment: scroll;
-   background-position: left top;
-   background-repeat: repeat;
+   background-image: url(images/index_bkgrnd.png);
+   background-repeat: repeat-x;
    color: #000000;
    font-family: Arial;
    font-weight: normal;
@@ -68,6 +66,12 @@ body
 div#container
 {
    width: 320px;
+}
+body
+{
+   background-color: #FFFFFF;
+   background-image: url(images/index_bkgrnd320.png);
+   background-repeat: repeat-x;
 }
 #wb_Image2
 {
